@@ -61,7 +61,7 @@ Global built-ins are available everywhere, including custom functions.
 | in float **TIME** | Global time, in seconds.                                                               |
 +-------------------+----------------------------------------------------------------------------------------+
 | in float **PI**   | A ``PI`` constant (``3.141592``).                                                      |
-|                   | A ration of circle's circumference to its diameter and amount of radians in half turn. |
+|                   | The ratio of circle's circumference to its diameter and amount of radians in half turn. |
 +-------------------+----------------------------------------------------------------------------------------+
 | in float **TAU**  | A ``TAU`` constant (``6.283185``).                                                     |
 |                   | An equivalent of ``PI * 2`` and amount of radians in full turn.                        |
